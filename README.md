@@ -1,3 +1,5 @@
+# Stock Analyzer
+
 A stock analysis platform powered by machine learning and technical indicators. Features real-time stock data analysis, AI-driven trend insights, and comprehensive technical analysis dashboards.
 
 ## Features
